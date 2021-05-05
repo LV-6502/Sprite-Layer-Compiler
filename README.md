@@ -11,11 +11,7 @@ How to use:
   ```
   pip install pillow
   ```
-  OR
-  
-2. Use the included windows executable file (Note Windows/Anti-viruses may flag as threat since I haven't bought and signed it with a Windows Certificate)
-
-
+Will compile executables if people really require..
 
 Quick demo:
 
