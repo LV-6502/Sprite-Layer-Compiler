@@ -19,7 +19,7 @@ python SpriteTool.py
   `
   
   
-Will compile executables if people really require..
+I can compile executables if people really require..
 
 Quick demo:
 
