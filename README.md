@@ -7,6 +7,9 @@ Python Version: 3.8.9
 
 How to use:
 1. Run the python script directly. 
+```
+python SpriteTool.py
+```
     - Will require Pillow Image Library:
   ```
   pip install pillow
