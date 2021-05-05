@@ -11,7 +11,7 @@ How to use:
 python SpriteTool.py
 `
 
-   - Will require Pillow Image Library:
+   - Will require Pillow - Python Image Library:
 
 
   `
